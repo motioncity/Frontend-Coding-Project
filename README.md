@@ -1,4 +1,4 @@
-# GIFTooltip
+# GIF Tooltip
 Coding project from Grammarly
 
 The goal was to create a tooltip that calls the Giphy api whenever you either doublic click or highlight a word, only works on valid api paramaters, written in React
