@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 import "./styles.css";
 
-const key = "iwVF9OQoUXTDfs0ikU7s8HiD6pbV1GMR";
+const key = "";
 
 const WIDTH = window.innerHeight * 0.25;
 
